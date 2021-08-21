@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì anh nói chuyện bánh cuốn ạ",
   text10: "Anh biết mà ^^ Thương em 300.000",
   text11:
-    "Anh đùa thui. Oanh là một người mạnh mẽ, lúc nào cũng vui vẻ. Lắm lúc có hay dỗi anh nè, nhưng anh thích như vậy, thích cảm giác được dỗ em. Không có ai là hoàn hảo cả, cũng phải có lúc này lúc kia. Có anh ở bên cạnh em rồi. Nên anh không cho phép ai làm em buồn. Cố lên em nhé vì sự nghiệp làm giàu không được nản chí.  Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
+    "Oanh là một người mạnh mẽ, lúc nào cũng vui vẻ. Lắm lúc có hay dỗi anh nè, nhưng anh thích như vậy, thích cảm giác được dỗ em. Không có ai là hoàn hảo cả, cũng phải có lúc này lúc kia. Có anh ở bên cạnh em rồi. Nên anh không cho phép ai làm em buồn. Cố lên em nhé vì sự nghiệp làm giàu không được nản chí.  Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
   text12: "Okii lunn <3",
 };
 
